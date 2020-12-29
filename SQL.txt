@@ -1,0 +1,1 @@
+UPDATE login SET SC='97',NS='93', project='95', Ap='89' WHERE username='yash'
